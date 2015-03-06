@@ -98,6 +98,12 @@
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tla-xx-BRJ">
+                                <rect key="frame" x="0.0" y="-21" width="42" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
@@ -107,11 +113,14 @@
                             <constraint firstItem="Cf9-TJ-Z1I" firstAttribute="trailing" secondItem="xrj-HC-zzz" secondAttribute="trailingMargin" id="Xug-IW-tdh"/>
                             <constraint firstItem="Cf9-TJ-Z1I" firstAttribute="leading" secondItem="xrj-HC-zzz" secondAttribute="leadingMargin" id="lFk-9i-UDm"/>
                             <constraint firstItem="Cf9-TJ-Z1I" firstAttribute="top" secondItem="42P-uH-g5T" secondAttribute="bottom" constant="29" id="nNG-wb-daS"/>
+                            <constraint firstAttribute="centerY" secondItem="tla-xx-BRJ" secondAttribute="centerY" id="yZf-rW-Rem"/>
+                            <constraint firstAttribute="centerX" secondItem="tla-xx-BRJ" secondAttribute="centerX" id="ysz-yB-uRR"/>
                         </constraints>
                         <variation key="default">
                             <mask key="subviews">
                                 <exclude reference="42P-uH-g5T"/>
                                 <exclude reference="Cf9-TJ-Z1I"/>
+                                <exclude reference="tla-xx-BRJ"/>
                             </mask>
                             <mask key="constraints">
                                 <exclude reference="3cU-ic-H48"/>
@@ -120,12 +129,15 @@
                                 <exclude reference="Xug-IW-tdh"/>
                                 <exclude reference="lFk-9i-UDm"/>
                                 <exclude reference="nNG-wb-daS"/>
+                                <exclude reference="yZf-rW-Rem"/>
+                                <exclude reference="ysz-yB-uRR"/>
                             </mask>
                         </variation>
                         <variation key="heightClass=regular-widthClass=compact">
                             <mask key="subviews">
                                 <include reference="42P-uH-g5T"/>
                                 <include reference="Cf9-TJ-Z1I"/>
+                                <include reference="tla-xx-BRJ"/>
                             </mask>
                             <mask key="constraints">
                                 <include reference="3cU-ic-H48"/>
@@ -134,6 +146,8 @@
                                 <include reference="Xug-IW-tdh"/>
                                 <include reference="lFk-9i-UDm"/>
                                 <include reference="nNG-wb-daS"/>
+                                <include reference="yZf-rW-Rem"/>
+                                <include reference="ysz-yB-uRR"/>
                             </mask>
                         </variation>
                     </view>

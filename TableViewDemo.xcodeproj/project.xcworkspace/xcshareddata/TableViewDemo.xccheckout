@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C1E86555-D702-46CE-88D1-1813E965A94A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TableViewDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5BB7469B89B18789D6AE2BCE7BA5B54AD5981BC8</key>
+		<string>https://github.com/Randoramma/TableViewwithSegue.git</string>
+		<key>90B405F66529FE3F4B53100FB16EC7ECA6BEB7C9</key>
+		<string>https://github.com/Randoramma/C31_iOS_RM.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TableViewDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5BB7469B89B18789D6AE2BCE7BA5B54AD5981BC8</key>
+		<string>../..</string>
+		<key>90B405F66529FE3F4B53100FB16EC7ECA6BEB7C9</key>
+		<string>../../../C31-iOS-RM/C31_iOS_RM</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Randoramma/TableViewwithSegue.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5BB7469B89B18789D6AE2BCE7BA5B54AD5981BC8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>90B405F66529FE3F4B53100FB16EC7ECA6BEB7C9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>C31_iOS_RM</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5BB7469B89B18789D6AE2BCE7BA5B54AD5981BC8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TableViewwithSegue</string>
+		</dict>
+	</array>
+</dict>
+</plist>
